@@ -1,0 +1,8 @@
+2019-09-22 12:11:11,397 FATAL [log4jPractice] fatal 
+2019-09-22 12:11:11,399 ERROR [log4jPractice] error 
+2019-09-22 12:11:11,399 WARN  [log4jPractice] warn 
+2019-09-22 12:11:11,399 INFO  [log4jPractice] info 
+2019-09-22 12:11:11,400 DEBUG [log4jPractice] debug 
+2019-09-22 12:11:11,400 TRACE [log4jPractice] race 
+2019-09-22 12:12:55,108 FATAL [log4jPractice] fatal 
+2019-09-22 12:12:55,110 ERROR [log4jPractice] error 

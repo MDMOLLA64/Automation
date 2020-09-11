@@ -1,0 +1,59 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name ="regression">
+<!-- <test name="uiTest">
+<packages>
+<package name="com.bit.ui.test"></package>
+</packages>
+<classes>
+<class name="com.bit.ui.test.RegressionTest">
+<class name="com.bit.ui.test.SmokeTest">
+<methods>
+<include name="test2"></include>
+</methods> 
+</class>
+</classes>
+
+</test>
+
+
+<test name="BackEndTest">
+
+<classes>
+
+<class name="com.bit.ui.test.SmokeTest">
+<methods>
+<include name="test2"></include>
+</methods> 
+</class>
+</classes> 
+
+</test>
+
+</test> -->
+
+
+<test name="grorpstest">
+<groups>
+<run>
+<include name="backend"></include>
+</run>
+</groups>
+
+
+<packages>
+<package name="com.bit.ui.test"></package>
+</packages> 
+
+<!-- <classes>
+
+<class name="com.bit.ui.test.SmokeTest"></class>
+<class name="com.bit.ui.test.RegressionTest">
+
+</class>
+</classes>  -->
+</test>
+
+
+
+
+</suite>

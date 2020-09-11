@@ -1,0 +1,23 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="whatever" parallel="methods">
+<test name="anything">
+<classes>
+<class name="com.bit.ui.test.SmokeTest">
+
+
+</class>
+</classes>
+
+<<!-- /test>
+
+
+<test name="anything1">
+<classes>
+
+<class name="com.bit.ui.test.UnitTest">
+
+</class>
+</classes>
+ -->
+</test>
+</suite>
